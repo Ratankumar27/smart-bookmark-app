@@ -30,7 +30,7 @@ The app can be tested by logging in with any Google account.
 <h2>📂 GitHub Repository</h2>
 <p>
 <strong>Public Repo:</strong><br />
-<em>https://github.com/your-username/smart-bookmark-app</em>
+<em>https://github.com/Ratankumar27/smart-bookmark-app</em>
 </p>
 
 <hr />
